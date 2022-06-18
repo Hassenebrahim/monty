@@ -60,6 +60,6 @@ where <file> is the name of the file
 # AUTHORS  
 ### This file lists all individuals having contributed content to the repository.
 ```
-Abel Yitages <abelyitages10@gmail.com>
-Tamirat Kebede <tamiratkebede120@gmail.com>
+robrl muluwork
+hassen ebrahim <hassenebrahim0@gmail.com>
 ```
